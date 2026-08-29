@@ -1,4 +1,4 @@
-Chemistry Calculator (v1.0.0)
+# Extra Large Text (Heading 1) Chemistry Calculator (v1.0.0)
 A zero-dependency Python tool and batch processor for chemistry and materials science. It solves ideal gas laws, molarity, dilution, liquid density, and stoichiometry equations with automatic unit conversions and built-in chemical formula parsing.
 
 Key Features
