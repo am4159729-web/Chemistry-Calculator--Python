@@ -37,7 +37,7 @@ A zero-dependency Python tool and batch processor for chemistry and materials sc
 ## Contributing
   If you'd like to help add support for nested formulas, real gas equations, or a proper test suite, feel free to open a pull request. The only strict rule for this project is that we   don't add any external dependencies.
 
-Why I Built This
+## Why I Built This
   I created this tool to fix a constant annoyance during lab work and chemistry assignments: having to switch between a calculator, periodic table tabs, and unit conversion sites just   to work through routine math. Most software solutions were either clunky web tools or required installing heavy scientific libraries for basic tasks. I wanted a single script that     is fast, completely self-contained, and flexible enough to handle quick interactive checks or process a whole batch of lab data in seconds.
 
 <img width="456" height="368" alt="Screenshot 2026-08-31 at 8 59 28 AM" src="https://github.com/user-attachments/assets/fbecaf71-61f3-4a5b-8707-8f226881c745" />
