@@ -1,3 +1,4 @@
+
 # Chemistry Calculator (v1.0.0)
 A zero-dependency Python tool and batch processor for chemistry and materials science. It solves ideal gas laws, molarity, dilution, liquid density, and stoichiometry equations with automatic unit conversions and built-in chemical formula parsing.
 
@@ -38,3 +39,5 @@ A zero-dependency Python tool and batch processor for chemistry and materials sc
 
 Why I Built This
   I created this tool to fix a constant annoyance during lab work and chemistry assignments: having to switch between a calculator, periodic table tabs, and unit conversion sites just   to work through routine math. Most software solutions were either clunky web tools or required installing heavy scientific libraries for basic tasks. I wanted a single script that     is fast, completely self-contained, and flexible enough to handle quick interactive checks or process a whole batch of lab data in seconds.
+
+<img width="456" height="368" alt="Screenshot 2026-08-31 at 8 59 28 AM" src="https://github.com/user-attachments/assets/fbecaf71-61f3-4a5b-8707-8f226881c745" />
