@@ -1,4 +1,4 @@
-Added a contextual prompt to option 7 that dynamically hooks into our new standalone extensions module:
+#I updated Option 7 so it can automatically talk to our new, separate add-ons feature
 
 elif choice == '7':
   if not HISTORY:
@@ -9,7 +9,8 @@ elif choice == '7':
     print(f"[{idx}] {item.operation} -> Result: {item.result}")
     print("==========================================\n")
                     
-   # --- ADD THESE THREE LINES BELOW YOUR HISTORY PRINT LOOP ---
+   # ADD THESE THREE LINES BELOW YOUR HISTORY PRINT LOOP 
+    
     export_choice = input("Would you like to export this history to a Markdown report? (y/n): ").strip().lower()
     if export_choice == 'y':
       import extensions
